@@ -1,0 +1,54 @@
+1001
+9784572154789
+Nhap mon lap trinh
+HCMUS
+NXB Khoa hoc Ky thuat
+60000
+1002
+9785412362147
+Ky thuat lap trinh
+HCMUS
+NXB Khoa hoc Ky thuat
+40000
+1004
+9784511123697
+Cau truc du lieu va giai thuat
+HCMUS
+NXB Khoa hoc Ky Thuat
+40000
+1003
+9781254330012
+Lap trinh huong doi tuong
+HCMUS
+NXB Khoa hoc Ky thuat
+60000
+1101
+9788875100012
+Phai trai dung sai
+Michael Sandel
+NXB Tre
+80000
+1102
+9785544120130
+Gian diep mang
+Clifford Stoll
+NXB Cong thuong
+220000
+1104
+9787774512036
+Bong ma tren mang
+Kevin Mitnick
+NXB Cong thuong
+220000
+1110
+9796663001010
+Hacker luoc su
+Steven Levy
+NXB Cong thuong
+300000
+1113
+9799967745100
+Nghe thuat an minh
+Kevin Mitnick
+NXB Cong thuong
+220000
